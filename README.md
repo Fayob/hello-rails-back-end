@@ -63,7 +63,7 @@ In order to run this project you need:
 
 ### Setup
 
-Clone this [repository](https://github.com/Fayob/hello-rails-react) to your desired folder:
+Clone this [repository](https://github.com/Fayob/hello-rails-back-end) to your desired folder:
 
 ```sh
   cd my-folder
