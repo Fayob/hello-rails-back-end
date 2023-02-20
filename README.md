@@ -24,7 +24,7 @@
 <!-- - [❓ FAQ (OPTIONAL)](#faq) -->
 - [📝 License](#license)
 
-# 📖 Hello-Rails-React  <a name="about-project"></a>
+# 📖 Hello-Rails-Backend  <a name="about-project"></a>
 
 This app is all about building rails Api.
 
@@ -46,6 +46,11 @@ This app is all about building rails Api.
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
   </ul>
 </details>
+
+
+> ### FrontEnd PR
+
+[react pull request link](https://github.com/Fayob/hello-react-front-end/pull/1)
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
